@@ -1,4 +1,4 @@
 //Your code here
-function justInvoke(fn) {
- console.log(fn())
+function justInvoke(returnThisAndArgs) {
+ 
 }
