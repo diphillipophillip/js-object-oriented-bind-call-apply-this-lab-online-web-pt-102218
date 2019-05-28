@@ -1,4 +1,6 @@
 //Your code here
 function justInvoke(returnThisAndArgs) {
- return this
+ returnThisAndArgs() {
+   return this
+ }
 }
